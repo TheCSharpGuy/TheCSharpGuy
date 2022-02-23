@@ -1,4 +1,4 @@
-👋 Hello peeps, I’m @TheCSharpGuy. I likes to code and blog https://medium.com/@kharavela.jain
+👋 Hello peeps, I’m @TheCSharpGuy. I like to code and blog https://medium.com/@kharavela.jain
 
 - 💪 Fullstack Engineer
 - 💘 .NET Core
